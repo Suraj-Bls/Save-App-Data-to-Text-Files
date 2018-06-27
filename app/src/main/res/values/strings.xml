@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Save_data_using_texts</string>
+    <string name="name">Enter Name</string>
+    <string name="surname">Enter Surname</string>
+    <string name="addbutton">ADD</string>
+
+    <string name="savebutton">Save Data</string>
+
+    <string name="text">Click on Show Data Button to view data present on the text file</string>
+
+    <string name="def">DEAFULT TEXT</string>
+    <string name="clear_button">Clear Data</string>
+    <string name="show_data_button">Show Data</string>
+
+
+</resources>
